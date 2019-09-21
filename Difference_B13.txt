@@ -1,0 +1,47 @@
+GENERAL
+Request URL: http://vtu.ac.in/en/
+Request Method: GET
+Status Code: 200 OK
+Remote Address: 210.212.207.171:80
+Referrer Policy: no-referrer-when-downgrade
+
+RESPONSE HEADER OF LINK
+Connection: close
+Content-Length: 39219
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 21 Sep 2019 10:19:33 GMT
+Link: <http://wp.me/P44KEx-1YI>; rel=shortlink
+Server: Apache
+
+REQUEST HEADER OF LINK
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cache-Control: max-age=0
+Connection: keep-alive
+
+GENERAL
+Request URL: http://vtu.ac.in/en/
+Request Method: GET
+Status Code: 200 OK
+Remote Address: 210.212.207.171:80
+Referrer Policy: no-referrer-when-downgrade
+
+RESPONSE HEADER OF URL
+Connection: close
+Content-Length: 39219
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 21 Sep 2019 10:57:10 GMT
+Link: <http://wp.me/P44KEx-1YI>; rel=shortlink
+Server: Apache
+
+REQUEST HEADER OF URL
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cache-Control: max-age=0
+Connection: keep-alive
+
+There are no differences between the request and the response headers.As we have got same details of both link and url. 
+
+
